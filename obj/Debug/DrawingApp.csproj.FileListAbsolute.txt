@@ -1,0 +1,12 @@
+/Users/ramyanarayanan/Projects/DrawingApp/DrawingApp/bin/Debug/DrawingApp.exe
+/Users/ramyanarayanan/Projects/DrawingApp/DrawingApp/bin/Debug/DrawingApp.pdb
+/Users/ramyanarayanan/Projects/DrawingApp/DrawingApp/obj/Debug/DrawingApp.csproj.AssemblyReference.cache
+/Users/ramyanarayanan/Projects/DrawingApp/DrawingApp/obj/Debug/DrawingApp.csproj.CoreCompileInputs.cache
+/Users/ramyanarayanan/Projects/DrawingApp/DrawingApp/obj/Debug/DrawingApp.exe
+/Users/ramyanarayanan/Projects/DrawingApp/DrawingApp/obj/Debug/DrawingApp.pdb
+/Users/ramyanarayanan/Desktop/Drawing App/bin/Debug/DrawingApp.exe
+/Users/ramyanarayanan/Desktop/Drawing App/bin/Debug/DrawingApp.pdb
+/Users/ramyanarayanan/Desktop/Drawing App/obj/Debug/DrawingApp.csproj.AssemblyReference.cache
+/Users/ramyanarayanan/Desktop/Drawing App/obj/Debug/DrawingApp.csproj.CoreCompileInputs.cache
+/Users/ramyanarayanan/Desktop/Drawing App/obj/Debug/DrawingApp.exe
+/Users/ramyanarayanan/Desktop/Drawing App/obj/Debug/DrawingApp.pdb

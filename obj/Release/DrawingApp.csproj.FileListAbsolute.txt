@@ -1,0 +1,3 @@
+/Users/ramyanarayanan/Desktop/Drawing App/bin/Release/DrawingApp.exe
+/Users/ramyanarayanan/Desktop/Drawing App/obj/Release/DrawingApp.csproj.CoreCompileInputs.cache
+/Users/ramyanarayanan/Desktop/Drawing App/obj/Release/DrawingApp.exe
